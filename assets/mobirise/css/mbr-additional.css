@@ -478,3 +478,18 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header2-0 .mbr-section-text {
+  text-align: right;
+}
+#header2-0 .mbr-section-text SPAN {
+  text-align: right;
+}
+#header5-2 .mbr-section-title {
+  color: #000;
+}
+#header5-2 .mbr-section-lead {
+  color: #9c9a9a;
+}
+#features2-5 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
