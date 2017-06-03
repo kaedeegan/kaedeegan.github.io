@@ -57,10 +57,10 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "HI, I AM KAEDEE.",
-          "text": "In the overall scheme of things, our lives are mere blips on canvas of eternity. So have the wisdom to enjoy the journey and savour the process. Welcome to my page.",
+          "text": "In the overall scheme of things, our lives are mere blips on canvas of eternity. So have the wisdom to enjoy the journey and savour the process. <br>Welcome to my page.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Explore more about me!</a>"
         },
         {
@@ -94,7 +94,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "media": {
