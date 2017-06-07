@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -120,7 +120,7 @@
             }
           },
           "title": "Kaedee Gan",
-          "text": "\"If you close your eyes now, you will miss a shooting star.\"&nbsp;<br>Seize every opportunity, for you are on the way of becoming a rising star.<br><br>Hi there, Welcome to my humble page. &nbsp;I am a nature lover and my &nbsp;favourite hobby is hiking. I love to challenge myself to greater heights by stepping out of my comfort zone and attempting new things. <span style=\"font-size: 1rem; line-height: 1.5;\">Mountain climbing is one of the boldest attempt i picked up as a hobby during my university days which I enjoy a lot. Not only am i reconnect to the mother nature, mountain climbing brings out the inner peace as well as trains my mental and physical ability that allows me to propel further in life. My friends describe me as a bubbly, tenacious and independent woman. However, I see myself as someone conservative, reserved and meticulous. May we cross fate one day, and preharps when the day comes, you could say it for yourself! &nbsp;</span><br>",
+          "text": "\"If you close your eyes now, you will miss a shooting star.\"&nbsp;<br>Seize every opportunity, for you are on the way of becoming a rising star.<br><br>Hi there, Welcome to my humble page. &nbsp;I am a nature lover and my &nbsp;favourite hobby is hiking. I love to challenge myself to greater heights by stepping out of my comfort zone and attempting new things. <span style=\"font-size: 1rem; line-height: 1.5;\">Mountain climbing is one of the boldest attempt i picked up as a hobby during my university days which I enjoy a lot. Not only am i reconnect to the mother nature, mountain climbing brings out the inner peace as well as trains my mental and physical ability that allows me to propel further in life. My friends describe me as a bubbly, tenacious and independent woman. However, I see myself as someone conservative, reserved and meticulous. May we cross fate one day, and when the day comes, you could say it for yourself! &nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -128,6 +128,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "60px"
+            }
+          },
           "_anchor": "msg-box5-b",
           "_params": {
             "imageSize": "52",
@@ -173,13 +178,8 @@
             }
           },
           "title": "QUALIFICATIONS",
-          "text": "Singapore Management University (2012-2017)<br>Bachelor of Science (Information Systems), Majoring in Economics<br><br>Innova Junior College (2010-2011)<br>Science Stream (Chemistry, Biology, Mathematics, Economics).",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "60px"
-            }
-          }
+          "text": "Singapore Management University (2012-2017)<br>Bachelor of Science (Information Systems), Majoring in Economics<br><br>Innova Junior College (2010-2011)<br>Science Stream (Chemistry, Biology, Mathematics, Economics)",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_name": "footer1",
@@ -233,7 +233,7 @@
             "showButtons": false
           },
           "title": "Experiences",
-          "text": "Technology Specialist (IT) Intern | Aecom Singapore | August-December 2015&nbsp;<br><br>Business Analyst and Market Research Analysis | Liberty Wireless | May-June 2015<br><br>Financial Consultant | Great Eastern Singapore | April - August 2014<br><br>Finance department | Hogarth | November-December 2013<br><br>Private Tuition Teacher | Nanyang Academics | March 2011-Current &nbsp; &nbsp;<br> <br><br><br><br>",
+          "text": "Technology Specialist (IT) Intern | Aecom Singapore | August-December 2015&nbsp;<br><br>Business Analyst and Market Research Analysis | Liberty Wireless | May-June 2015<br><br>Financial Consultant | Great Eastern Singapore | April - August 2014<br><br>Finance Department | Hogarth | November-December 2013<br><br>Private Tuition Teacher | Nanyang Academics | March 2011-December 2016 &nbsp; &nbsp;<br> <br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
         {
@@ -241,6 +241,15 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "60px"
+            }
+          },
           "_anchor": "msg-box5-d",
           "_params": {
             "imageSize": "44",
@@ -282,17 +291,8 @@
             }
           },
           "title": "ACHIEVEMENTS",
-          "text": "Corporate Communications Director | SMU Artdicted<br><br>Public Relation Secretary |&nbsp;Woodlands Youth Executive Community Club<br><br>Final Year Project | Most Popular Poster Booth IS480 Design Award<br><br>Marketing Director| SMU MetamorphoSIS 2013<br><br>Camp Facilitator | StarringSMU 2012<br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><br><br><br><br>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left",
-              "font-size": "60px"
-            }
-          }
+          "text": "Corporate Communications Director | SMU Artdicted<br><br>Public Relation Secretary |&nbsp;Woodlands Youth Executive Community Club<br><br>Final Year Project | Most Popular Poster Booth IS480 Design Award<br><br>Marketing Director | SMU MetamorphoSIS 2013<br><br>Camp Facilitator | StarringSMU 2012<br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><br><br><br><br>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "features1",
@@ -342,7 +342,7 @@
           },
           "title1": "Web &nbsp;Design",
           "subtitle1": "HTML/CSS",
-          "caption1": "Ability to code from scratch using HTML/CSS and design user-friendly UI/UX by conceptualizing interactive design ideas using prototyping tools such as POP, Basimq.",
+          "caption1": "Ability to code from scratch using HTML/CSS and design user-friendly UI/UX by conceptualizing interactive design ideas using prototyping tools such as POP, Balsamiq.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -357,7 +357,7 @@
           },
           "title2": "Programming Skill",
           "subtitle2": "Java, HTML/CSS",
-          "caption2": "Ability to code using Java languages, and HTML/CSS for design web pages interfaces.",
+          "caption2": "Ability to code using Java languages, and design web page interfaces using HTML/CSS/Bootstrap.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -423,6 +423,17 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "font-size": "72px"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "B": {
+              "text-align": "right"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -478,18 +489,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-h",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "72px"
-            },
-            "P": {
-              "text-align": "center"
-            },
-            "B": {
-              "text-align": "right"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
@@ -503,7 +503,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/01eb3f7a-beeb-4e73-9e79-f278dc9fff2a-2000x1331.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -512,13 +512,13 @@
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "IT INTERN | AECOM&nbsp;",
-                "showText": true,
-                "text": "My 4 Months Internship at AECOM SINGAPORE.",
-                "showButtons": true,
+                "showText": false,
+                "text": "",
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">My Reflections</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/faa4d10f-29bd-4c8e-bf81-1ce154327e4b-2000x1331.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -544,7 +544,59 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/artdicted2-2000x808.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "SMU ARTDICTED",
+                "showText": true,
+                "text": "Corporate Communications Director",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">View SMU@Artdicted Facebook Page</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/artdicted-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "SMU ARTDICTED",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.facebook.com/smu.artdicted/\" data-toolbar=\"-mbrBtnMove\">View SMU@Artdicted Facebook Page</a> "
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider3-m",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-j",
           "_params": {
             "labelsColor": "#232323",
@@ -590,12 +642,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>"
         },
         {
           "_styles": {
